@@ -2,19 +2,20 @@
 
 **Software Architect & IT Advisor @ Confea** — Brasília, Brazil
 
-20+ years turning technology into working software — the last 11 building and modernizing enterprise systems for Brazil's federal council of engineering (Confea).
+I have more than 20 years in technology, including 11 years designing and modernizing enterprise systems for Brazil's federal council of engineering and agronomy.
 
 ## What I do
 
-🏛️ Solution architecture for high-responsibility public sector systems<br>
-🔐 Secure development, Domain-Driven Design and clean architecture on .NET<br>
-☁️ Azure — DevOps, Service Bus and cloud-native services<br>
-🤖 Applied AI: Machine Learning, generative AI and the **Model Context Protocol (MCP)** — connecting AI agents to enterprise systems and data<br>
+🏛️ Solution architecture for high-responsibility public-sector systems<br>
+🔐 Secure .NET development with Domain-Driven Design, Clean Architecture and CQRS<br>
+📐 Specification-Driven Development (SDD) for clearer scope and traceable delivery<br>
+☁️ Azure solutions using Azure DevOps, Service Bus and cloud services<br>
+🤖 Applied AI with LLMs, RAG, AI agents and the Model Context Protocol (MCP)<br>
 🎓 Postgraduate degree in Artificial Intelligence — UniCEUB, 2025
 
 ## Tech stack
 
-C# · .NET Core · ASP.NET Core · Azure · Azure DevOps · Service Bus · Python · Machine Learning · MCP · Oracle · SQL Server · Entity Framework · Scrum
+C# · .NET · ASP.NET Core · Azure · Azure DevOps · Service Bus · Python · Machine Learning · Generative AI · LLMs · RAG · AI Agents · MCP · DDD · Clean Architecture · CQRS · SDD · Entity Framework · Oracle · SQL Server
 
 ## Reach me
 
